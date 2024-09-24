@@ -1,4 +1,4 @@
-module modbus
+module github.com/yoursmengle/go_modbus
 
 go 1.16
 
